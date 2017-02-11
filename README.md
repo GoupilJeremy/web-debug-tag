@@ -60,7 +60,7 @@ Tag dumping attributes of session, requests and application into console like fi
 ### USAGE
           
 ```
-- Add in jsp file you want to debug : 
+- Add this in jsp file you want to debug : 
       <%@ taglib prefix="debug" uri="https://github.com/figarocms/web-debug-tag"%>
       <debug:debugModel/>  
 
